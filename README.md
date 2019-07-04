@@ -1,2 +1,1 @@
-# learningPython
-# challenges from Hacker Rank
+Challenges from Python courses
